@@ -1,0 +1,22 @@
+<svg width="300" height="64" viewBox="0 0 300 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="brandBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1E3A8A"></stop>
+      <stop offset="100%" stop-color="#2563EB"></stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Icon container -->
+  <rect x="0" y="4" width="56" height="56" rx="14" fill="url(#brandBlue)"></rect>
+
+  <!-- B shape -->
+  <path d="M18 18H30C34 18 36 20 36 23C36 25 35 27 33 28C36 29 38 31 38 34C38 38 35 40 30 40H18V18Z" fill="#FFFFFF"></path>
+
+  <!-- V cut -->
+  <path d="M30 22L34 36L38 22" stroke="#1E3A8A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <!-- Wordmark -->
+  <text x="72" y="44" font-size="30" font-weight="800" font-family="Inter, Poppins, Segoe UI, Arial, sans-serif" fill="#1E3A8A">
+    BlogVerse
+  </text>
+</svg>
